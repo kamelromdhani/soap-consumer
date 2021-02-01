@@ -1,0 +1,9 @@
+com/example/soapconsumer/SoapConsumerApplication.class
+com/example/soapconsumer/wsdl/GetCountryRequest.class
+com/example/soapconsumer/wsdl/Currency.class
+com/example/soapconsumer/CountryConfiguration.class
+com/example/soapconsumer/wsdl/Country.class
+com/example/soapconsumer/wsdl/package-info.class
+com/example/soapconsumer/CountryClient.class
+com/example/soapconsumer/wsdl/ObjectFactory.class
+com/example/soapconsumer/wsdl/GetCountryResponse.class
